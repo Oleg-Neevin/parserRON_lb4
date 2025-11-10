@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schedule>
+  <day>
+    <name>Понедельник</name>
+    <lessons>
+    <lesson>
+        <time>09:50-11:20</time>
+        <subject>Основы дискретной математики (базовый уровень)</subject>
+        <teacher>Поляков Владимир Иванович</teacher>
+        <room>2337</room>
+        <building>Кронверкский пр., д.49, лит.А</building>
+        <type>Лекция</type>
+      </lesson>
+    <lesson>
+        <time>11:30-13:00</time>
+        <subject>Основы дискретной математики (базовый уровень)</subject>
+        <teacher>Поляков Владимир Иванович</teacher>
+        <room>2337</room>
+        <building>Кронверкский пр., д.49, лит.А</building>
+        <type>Практика</type>
+      </lesson>
+    <lesson>
+        <time>13:30-15:00</time>
+        <subject>Информатика</subject>
+        <teacher>Авксентьева Елена Юрьевна</teacher>
+        <room>2305</room>
+        <building>Кронверкский пр., д.49, лит.А</building>
+        <type>Лабораторная</type>
+      </lesson>
+    <lesson>
+        <time>15:30-17:00</time>
+        <subject>Информатика</subject>
+        <teacher>Авксентьева Елена Юрьевна</teacher>
+        <room>2305</room>
+        <building>Кронверкский пр., д.49, лит.А</building>
+        <type>Лабораторная</type>
+      </lesson>
+    <lesson>
+        <time>17:10-18:40</time>
+        <subject>Основы профессиональной деятельности</subject>
+        <teacher>Остапенко Ольга Денисовна</teacher>
+        <room>1338</room>
+        <building>Кронверкский пр., д.49, лит.А</building>
+        <type>Лабораторная</type>
+      </lesson>
+    <lesson>
+        <time>18:50-20:20</time>
+        <subject>Основы профессиональной деятельности</subject>
+        <teacher>Остапенко Ольга Денисовна</teacher>
+        <room>1338</room>
+        <building>Кронверкский пр., д.49, лит.А</building>
+        <type>Лабораторная</type>
+      </lesson>
+    </lessons>
+  </day>
+  <day>
+    <name>Суббота</name>
+    <lessons>
+    <lesson>
+        <time>13:30-15:00</time>
+        <subject>Программирование</subject>
+        <teacher>Чупанов Аликылыч Аликбекович</teacher>
+        <room>2305</room>
+        <building>Кронверкский пр., д.49, лит.А</building>
+        <type>Лекция</type>
+      </lesson>
+    <lesson>
+        <time>15:30-17:00</time>
+        <subject>Программирование</subject>
+        <teacher>Чупанов Аликылыч Аликбекович</teacher>
+        <room>2305</room>
+        <building>Кронверкский пр., д.49, лит.А</building>
+        <type>Практика</type>
+      </lesson>
+    <lesson>
+        <time>18:50-20:20</time>
+        <subject>История российской науки и техники</subject>
+        <teacher>Белоусов Александр Сергеевич</teacher>
+        <room></room>
+        <building></building>
+        <type>Консультация</type>
+      </lesson>
+    <lesson>
+        <time>20:30-22:00</time>
+        <subject>История российской науки и техники</subject>
+        <teacher>Белоусов Александр Сергеевич</teacher>
+        <room></room>
+        <building></building>
+        <type>Консультация</type>
+      </lesson>
+    </lessons>
+  </day>
+</schedule>
